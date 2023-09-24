@@ -9,10 +9,12 @@ Scenario: New user Sign Up
     Given path 'users'
     And request 
     """
+        {
         "user": {
             "email": "#(userData.email)", 
             "password": "signupdemotwo",
             "username": "#(userData.username)"
+        }
         }
     """
     When method Post

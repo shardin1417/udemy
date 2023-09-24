@@ -1009,3 +1009,128 @@ org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.
 
 src/test/java/conduitApp/feature/SignUp.feature:9
 18:00:38.251 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:21:10.805 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:21:11.246 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695576071242
+12:21:11.276 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:21:12.705 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:21:13.550 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:22:53.111 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:22:53.684 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695576173678
+12:22:55.263 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:22:56.316 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:26:04.363 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:26:04.818 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695576364811
+12:26:04.849 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:26:06.676 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:26:07.716 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:39:04.709 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:39:05.178 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695577145168
+12:39:05.213 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:39:06.816 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:39:07.609 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:39:39.991 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:39:40.306 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695577180301
+12:39:40.328 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:39:41.346 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:39:41.991 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:45:19.451 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:45:19.929 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695577519922
+12:45:19.957 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:45:21.450 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:45:22.400 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:47:28.912 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:47:29.364 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695577649354
+12:47:29.394 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:47:31.600 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:47:32.875 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:48:18.726 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:48:19.010 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695577699006
+12:48:19.034 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:48:20.089 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:48:20.778 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+12:54:51.046 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+12:54:51.459 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695578091452
+12:54:51.487 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+12:54:52.695 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+12:54:53.500 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
