@@ -1,0 +1,1011 @@
+14:35:09.903 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:35:11.387 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def DataGenerator = Java.type('helpers.DataGenerator') // Import the Java class properly
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator') // Import the Java class properly
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:35:12.042 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:37:54.334 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:37:54.891 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695497874886
+14:37:56.429 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def DataGenerator = Java.type('helpers.DataGenerator') // Import the Java class properly
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator') // Import the Java class properly
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:37:57.204 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:38:41.017 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:38:41.345 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695497921340
+14:38:42.393 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def DataGenerator = Java.type('helpers/DataGenerator') // Import the Java class properly
+js failed:
+>>>>
+01: Java.type('helpers/DataGenerator') // Import the Java class properly
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers/DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:38:43.104 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:39:16.231 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:39:16.622 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695497956618
+14:39:17.795 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def DataGenerator = Java.type('classpath:src/test/java/helpers/DataGenerator') // Import the Java class properly
+js failed:
+>>>>
+01: Java.type('classpath:src/test/java/helpers/DataGenerator') // Import the Java class properly
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class classpath:src/test/java/helpers/DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:39:18.440 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:41:45.774 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:41:46.091 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498106087
+14:41:47.153 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('classpath:src/test/java/helpers/DataGenerator')
+js failed:
+>>>>
+01: Java.type('classpath:src/test/java/helpers/DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class classpath:src/test/java/helpers/DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:41:47.739 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:42:06.519 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:42:06.927 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498126921
+14:42:08.197 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers/DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers/DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers/DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:42:08.961 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:44:16.960 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:44:17.226 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498257222
+14:44:18.104 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:44:18.643 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:47:13.321 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:47:13.624 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498433620
+14:47:14.694 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:47:15.396 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:47:46.306 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:47:46.642 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498466637
+14:47:46.666 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+14:47:47.796 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:47:48.507 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:47:49.513 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:47:49.926 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498469921
+14:47:51.201 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:47:51.895 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:49:29.589 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:49:29.942 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498569937
+14:49:31.088 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:49:31.703 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:50:07.009 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:50:07.350 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498607345
+14:50:08.459 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:50:09.068 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:55:28.666 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:55:28.935 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695498928931
+14:55:29.857 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers/DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers/DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers/DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:55:30.446 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+14:57:43.113 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+14:57:43.459 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695499063455
+14:57:44.516 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+14:57:45.142 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:23:50.758 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:23:51.062 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695500631058
+15:23:51.984 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+15:23:52.503 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:31:12.643 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:31:12.909 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695501072904
+15:31:13.807 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+15:31:14.389 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:34:39.803 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:34:40.117 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695501280112
+15:34:41.076 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.093 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.103 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.111 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.125 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.136 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.148 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.155 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:41.167 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:5
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:5
+15:34:42.122 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:38:09.579 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:38:09.909 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695501489903
+15:38:11.045 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.065 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.075 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.085 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.095 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.104 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.112 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.119 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:11.132 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:12.102 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:38:25.963 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:38:26.334 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695501506330
+15:38:27.448 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.466 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.477 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.485 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.494 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.502 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.511 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.519 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:27.530 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:6
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:6
+15:38:28.577 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:38:39.528 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:38:40.036 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695501520031
+15:38:41.414 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.436 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.445 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.454 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.463 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.470 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.479 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.489 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:41.501 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:7
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:7
+15:38:42.687 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:46:07.448 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:46:07.825 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695501967820
+15:46:09.218 [main]  INFO  com.intuit.karate - >> lock acquired, begin callonce: read('classpath:src/test/java/helpers/CreateToken.feature') {"email": "SpencerH1417@gmail.com","password": "Corncake21"}
+15:46:09.668 [main]  DEBUG com.intuit.karate - request:
+1 > POST https://api.realworld.io/api/users/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 67
+1 > Host: api.realworld.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+1 > Accept-Encoding: gzip,deflate
+{"user":{"email":"SpencerH1417@gmail.com","password":"Corncake21"}}
+
+15:46:10.331 [main]  DEBUG com.intuit.karate - response time in milliseconds: 655
+1 < 200
+1 < Date: Sat, 23 Sep 2023 20:46:10 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"172-qormBtaszJrHoddjkZDajVpQ7Xc"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=u0kNXTBFN1iahV6EfjlccPdAQWh50Mezxv4PTDOeO9mMJjRCk5QcFMEe%2FFN7fO%2F1gx5jNpj99OAs1z6C%2BQu7ULlua4EiY9UNMqWFiFM71lReENNDxO%2BRUJLzycF3O4aCN%2BUc"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 80b5a2b29b323be5-MEM
+1 < alt-svc: h3=":443"; ma=86400
+{"user":{"email":"SpencerH1417@gmail.com","username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMTk3MCwiZXhwIjoxNzAwNjg1OTcwfQ.15Qc5sOvZU5bfdr_elcBxb7W0oq2Tt9XzG9T7A_OWXI"}}
+
+15:46:10.340 [main]  INFO  com.intuit.karate - << lock released, cached callonce: read('classpath:src/test/java/helpers/CreateToken.feature') {"email": "SpencerH1417@gmail.com","password": "Corncake21"}
+15:46:10.357 [main]  DEBUG com.intuit.karate - request:
+1 > POST https://api.realworld.io/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMTk3MCwiZXhwIjoxNzAwNjg1OTcwfQ.15Qc5sOvZU5bfdr_elcBxb7W0oq2Tt9XzG9T7A_OWXI
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 84
+1 > Host: api.realworld.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Bla bla","description":"test test","body":"body","tagList":[]}}
+
+15:46:10.649 [main]  DEBUG com.intuit.karate - response time in milliseconds: 291
+1 < 422
+1 < Date: Sat, 23 Sep 2023 20:46:10 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 39
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"27-BNeuaWQ7DHvW/r+pl+qdJiF06Is"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XCfzr%2Fq5XuApRWNCwnZr78K%2BREHfsTbposXdTozHpBkLpKR7lwrtewVp%2Fqx7HJ9OZgOaqoy6laUUXM8hYJczb%2Fxw7dgXJ793ff2UkFggNWV5C0G%2FS82SUUDGjMUX69q%2BzE%2FX"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 80b5a2b528590dee-MEM
+1 < alt-svc: h3=":443"; ma=86400
+{"errors":{"title":["must be unique"]}}
+
+15:46:10.667 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/Articles.feature:12
+Then status 201
+status code was: 422, expected: 201, response time in milliseconds: 291, url: https://api.realworld.io/api/articles, response: 
+{"errors":{"title":["must be unique"]}}
+src/test/java/conduitApp/feature/Articles.feature:12
+15:46:10.686 [main]  DEBUG com.intuit.karate - request:
+1 > POST https://api.realworld.io/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMTk3MCwiZXhwIjoxNzAwNjg1OTcwfQ.15Qc5sOvZU5bfdr_elcBxb7W0oq2Tt9XzG9T7A_OWXI
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 91
+1 > Host: api.realworld.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Delete Article","description":"test test","body":"body","tagList":[]}}
+
+15:46:10.874 [main]  DEBUG com.intuit.karate - response time in milliseconds: 186
+1 < 201
+1 < Date: Sat, 23 Sep 2023 20:46:11 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 363
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"16b-RGZWlrBtxGBNsqCJrCa7aDTqZ2Q"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NfcABtyPypUmUHDncbvCuYQNMuvcSANd4giTUCicN3JF6%2F3j%2B0QzAk5da%2BKcUoQgNT7%2BAUFko4xwbrhTZT4gSxAQdYrK%2FXpQnomuEggx%2Fr7zj1MhW%2BLX4kzCbiY%2FDNGNDARz"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 80b5a2b67e0c3bd9-MEM
+1 < alt-svc: h3=":443"; ma=86400
+{"article":{"slug":"Delete-Article-234051","title":"Delete Article","description":"test test","body":"body","tagList":[],"createdAt":"2023-09-23T20:46:11.010Z","updatedAt":"2023-09-23T20:46:11.010Z","favorited":false,"favoritesCount":0,"author":{"username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","following":false}}}
+
+15:46:10.881 [main]  DEBUG com.intuit.karate - request:
+2 > GET https://api.realworld.io/api/articles?offset=0&limit=10
+2 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMTk3MCwiZXhwIjoxNzAwNjg1OTcwfQ.15Qc5sOvZU5bfdr_elcBxb7W0oq2Tt9XzG9T7A_OWXI
+2 > Host: api.realworld.io
+2 > Connection: Keep-Alive
+2 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+2 > Accept-Encoding: gzip,deflate
+
+
+15:46:11.876 [main]  DEBUG com.intuit.karate - response time in milliseconds: 991
+2 < 200
+2 < Date: Sat, 23 Sep 2023 20:46:12 GMT
+2 < Content-Type: application/json; charset=utf-8
+2 < Transfer-Encoding: chunked
+2 < Connection: keep-alive
+2 < X-Powered-By: Express
+2 < Access-Control-Allow-Origin: *
+2 < Etag: W/"48d9-LxY/QbpfhQLwi08fmX9WQGCYk28"
+2 < Via: 1.1 vegur
+2 < CF-Cache-Status: DYNAMIC
+2 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=JZfn3ZpHFso8S750wb5ORL01ZUJxufIAEeBaKxdoeFaKsc1CZKotzINX%2BDI5Rwaw4nBcM6zKwOctzYNyv6yZTe8NrE0YH18NjynvdntTyxHu3CH4YuKMyzicRXSrSNXT7rgP"}],"group":"cf-nel","max_age":604800}
+2 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+2 < Server: cloudflare
+2 < CF-RAY: 80b5a2b88edf0de9-MEM
+2 < alt-svc: h3=":443"; ma=86400
+{"articles":[{"slug":"Delete-Article-234051","title":"Delete Article","description":"test test","body":"body","tagList":[],"createdAt":"2023-09-23T20:46:11.010Z","updatedAt":"2023-09-23T20:46:11.010Z","favorited":false,"favoritesCount":0,"author":{"username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","following":false}},{"slug":"Bla-bla-234051","title":"Bla bla","description":"test test","body":"body","tagList":[],"createdAt":"2023-09-23T14:18:42.047Z","updatedAt":"2023-09-23T14:18:42.047Z","favorited":false,"favoritesCount":0,"author":{"username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","following":false}},{"slug":"Try-to-transmit-the-HTTP-card-maybe-it-will-override-the-multi-byte-hard-drive!-120863","title":"Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!","description":"Assumenda molestiae laboriosam enim ipsum quaerat enim officia vel quo. Earum odit rem natus totam atque cumque. Sint dolorem facere non.","body":"Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Voluptate et quasi optio eos et eveniet culpa et nobis.\\nSint aut sint sequi possimus reiciendis nisi.\\nRerum et omnis et sit doloribus corporis voluptas error.\\nIusto molestiae tenetur necessitatibus dolorem omnis. Libero sed ut architecto.\\nEx itaque et modi aut voluptatem alias quae.\\nModi dolor cupiditate sit.\\nDelectus consectetur nobis aliquid deserunt sint ut et voluptas.\\nCorrupti in labore laborum quod. Ipsa laudantium deserunt. Ut atque harum inventore natus facere sed molestiae.\\nQuia aliquid ut.\\nAnimi sunt rem et sit ullam dolorem ab consequatur modi. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Et fuga repellendus magnam dignissimos eius aspernatur rerum. Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Ad voluptate vel.\\nAut aut dolor. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et.","tagList":["voluptate","rerum","ducimus","hic"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1910,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"If-we-quantify-the-alarm-we-can-get-to-the-FTP-pixel-through-the-online-SSL-interface!-120863","title":"If we quantify the alarm, we can get to the FTP pixel through the online SSL interface!","description":"Omnis perspiciatis qui quia commodi sequi modi. Nostrum quam aut cupiditate est facere omnis possimus. Tenetur similique nemo illo soluta molestias facere quo. Ipsam totam facilis delectus nihil quidem soluta vel est omnis.","body":"Quia quo iste et aperiam voluptas consectetur a omnis et.\\nDolores et earum consequuntur sunt et.\\nEa nulla ab voluptatem dicta vel. Temporibus aut adipisci magnam aliquam eveniet nihil laudantium reprehenderit sit.\\nAspernatur cumque labore voluptates mollitia deleniti et. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Voluptatum tempora voluptas est odio iure odio dolorem.\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Sed dolores nostrum quis. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Facere beatae delectus ut.\\nPossimus voluptas perspiciatis voluptatem nihil sint praesentium.\\nSint est nihil voluptates nesciunt voluptatibus temporibus blanditiis.\\nOfficiis voluptatem earum sed. Deserunt ab porro similique est accusamus id enim aut suscipit.\\nSoluta reprehenderit error nesciunt odit veniam sed.\\nDolore optio qui aut ab.\\nAut minima provident eius repudiandae a quibusdam in nisi quam.","tagList":["rerum","maiores","omnis","quae"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1916,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-bypass-the-SAS-card-maybe-it-will-transmit-the-solid-state-system!-120863","title":"Try to bypass the SAS card, maybe it will transmit the solid state system!","description":"Est iste totam accusamus dolorem est. Quis non sit impedit similique incidunt odio aspernatur aut rem. Architecto est eum.","body":"Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Sapiente vitae culpa ut voluptatem incidunt excepturi voluptates exercitationem.\\nSed doloribus alias consectetur omnis occaecati ad placeat labore.\\nVoluptate consequatur expedita nemo recusandae sint assumenda.\\nQui vel totam quia fugit saepe suscipit autem quasi qui.\\nEt eum vel ut delectus ut nesciunt animi. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ipsa laudantium deserunt. Totam ab necessitatibus quidem non. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Molestias non debitis quibusdam quis quod.\\nSaepe ab et hic unde et sed.\\nMagni voluptatem est.\\nEt similique quo porro et.","tagList":["dolores","aut","consectetur","ullam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":332,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"We-need-to-calculate-the-bluetooth-JBOD-bus!-120863","title":"We need to calculate the bluetooth JBOD bus!","description":"Ipsa nemo eos sequi nulla id accusamus nam ratione dolore. Omnis sint quisquam accusamus rem rem nihil. Non minus animi cum dolorem earum odit sequi. Rem non inventore sed dicta atque modi. Sed dolorem iste molestiae. Sed eum iste aliquid aliquid.","body":"Nisi vitae nostrum perspiciatis impedit laborum repellat ullam et ut. Qui soluta veritatis autem repellat et inventore occaecati. Reprehenderit quae quas quos sapiente ullam ut.\\nVoluptates non ut. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Quia harum nulla et quos sint voluptates exercitationem corrupti. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Eveniet sit ipsa officiis laborum.\\nIn vel est omnis sed impedit quod magni.\\nDignissimos quis illum qui atque aut ut quasi sequi. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Nemo tempore dolor maiores blanditiis quia qui qui voluptatem non.\\nNisi dolores animi laboriosam aliquam qui adipisci voluptates atque dignissimos.\\nLibero sit quibusdam corporis aut inventore natus libero.\\nPraesentium omnis dolorum temporibus repellendus qui.\\nNon nostrum doloribus occaecati dolores sit ut.","tagList":["nostrum","quia","quaerat","numquam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":271,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"quantifying-the-microchip-wont-do-anything-we-need-to-index-the-online-SQL-hard-drive!-120863","title":"quantifying the microchip wont do anything, we need to index the online SQL hard drive!","description":"Minima soluta sed sed et optio explicabo at distinctio repudiandae. Magnam deleniti a ea. Non velit accusamus veniam qui. Necessitatibus velit ad aut officiis in officiis quasi. Sunt nulla dolores voluptatem esse magnam ut.","body":"Ab rerum eos ipsa accusantium nihil voluptatem.\\nEum minus alias.\\nIure commodi at harum.\\nNostrum non occaecati omnis quisquam. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident.","tagList":["possimus","voluptatem","cupiditate"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":528,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-generate-the-TCP-bus-maybe-it-will-override-the-neural-bandwidth!-120863","title":"Try to generate the TCP bus, maybe it will override the neural bandwidth!","description":"Pariatur ut dolor repellendus dolores ut debitis. Est iusto neque dicta voluptatibus quia nulla consequatur. Omnis aut sed dolores qui laborum a amet.","body":"Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Qui soluta veritatis autem repellat et inventore occaecati. Doloribus consequatur et labore suscipit deserunt tempore ad quasi sed.\\nQuam cupiditate modi dolor et eos et culpa qui.\\nDelectus molestias ea id.\\nIllum ea unde sapiente non non non.\\nDolorem ut sed magni. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Placeat sequi quaerat sapiente aspernatur autem sunt molestiae voluptatem.\\nAccusamus unde libero accusamus omnis totam et temporibus. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Laborum est maxime enim accusantium magnam.\\nRerum dolorum minus laudantium delectus eligendi necessitatibus quia.\\nDeleniti consequatur explicabo aut nobis est vero tempore.\\nExcepturi earum quo quod voluptatem quo iure vel sapiente occaecati.\\nConsectetur consequatur corporis doloribus omnis harum voluptas esse amet. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit.","tagList":["dicta","rerum","omnis","blanditiis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":338,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"You-cant-transmit-the-firewall-without-copying-the-1080p-SDD-interface!-120863","title":"You cant transmit the firewall without copying the 1080p SDD interface!","description":"Est sed deserunt eligendi in velit saepe. Dolorem quis illo vero qui ut recusandae occaecati dolores quae. Voluptatem vero aliquam alias adipisci reiciendis odit nobis est. Vel laboriosam quia commodi rerum. Voluptatum et sed et nesciunt iure ipsum iste aut enim.","body":"Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Temporibus quod quidem placeat porro.\\nUnde ipsam vel explicabo. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Ducimus dolores recusandae.\\nEa aut aperiam et aut eos inventore.\\nQuia cum ducimus autem iste.\\nQuos consequuntur est delectus temporibus autem. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Autem reiciendis provident iure possimus.\\nOccaecati soluta quibusdam libero tenetur minus vel sit illo.\\nCulpa optio dolorem eos similique voluptatem voluptatibus error accusantium. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Et sed dicta eveniet accusamus consequatur.\\nUllam voluptas consequatur aut eos ducimus.\\nId officia est ut dicta provident beatae ipsa.","tagList":["possimus","maiores","facilis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":233,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Use-the-auxiliary-EXE-monitor-then-you-can-hack-the-haptic-port!-120863","title":"Use the auxiliary EXE monitor, then you can hack the haptic port!","description":"Et id harum unde et ratione minima non. Suscipit ipsum rem. Sed asperiores quaerat dolorum autem nihil voluptatem et hic ut. Molestiae rerum autem. Dolores nam soluta officia pariatur debitis.","body":"Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Dolores accusamus ducimus suscipit neque fugit quo aliquam.\\nOdit eum eum sint accusamus.\\nQuod ipsum sed placeat.\\nEt culpa voluptas et quod atque a.\\nVoluptatibus rerum nihil quia cupiditate nihil facere beatae dolor. Fugit harum mollitia.\\nMagni eos asperiores assumenda ad. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Quia consequatur voluptatibus et.\\nVoluptatibus aspernatur et.\\nDicta architecto qui dignissimos.\\nVeritatis facilis voluptatem inventore aliquid cum.\\nNumquam odio quis porro sunt adipisci culpa.","tagList":["necessitatibus","vitae","repellat","labore"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":227,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}}],"articlesCount":199}
+
+15:46:11.931 [main]  DEBUG com.intuit.karate - request:
+3 > DELETE https://api.realworld.io/api/articles/Delete-Article-234051
+3 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMTk3MCwiZXhwIjoxNzAwNjg1OTcwfQ.15Qc5sOvZU5bfdr_elcBxb7W0oq2Tt9XzG9T7A_OWXI
+3 > Host: api.realworld.io
+3 > Connection: Keep-Alive
+3 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+3 > Accept-Encoding: gzip,deflate
+
+
+15:46:12.098 [main]  DEBUG com.intuit.karate - response time in milliseconds: 165
+3 < 204
+3 < Date: Sat, 23 Sep 2023 20:46:12 GMT
+3 < Content-Length: 0
+3 < Connection: keep-alive
+3 < X-Powered-By: Express
+3 < Access-Control-Allow-Origin: *
+3 < Etag: W/"a-bAsFyilMr4Ra1hIU5PyoyFRunpI"
+3 < Via: 1.1 vegur
+3 < CF-Cache-Status: DYNAMIC
+3 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MaqbYkf%2FidFMj3nAgVtHg147LdM%2FOQcUvIfsEg0MZjJHJOkWWzrXRaYOh4rGR7HEHqHPS%2FjnrVoI9pGmQsGzd9A%2FtBwXhY3iXY4L9NKvIXV06zqvKkX%2FRIClbMyzSknso0Qh"}],"group":"cf-nel","max_age":604800}
+3 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+3 < Server: cloudflare
+3 < CF-RAY: 80b5a2be2b523be4-MEM
+3 < alt-svc: h3=":443"; ma=86400
+
+
+15:46:12.101 [main]  DEBUG com.intuit.karate - request:
+4 > GET https://api.realworld.io/api/articles?offset=0&limit=10
+4 > Host: api.realworld.io
+4 > Connection: Keep-Alive
+4 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+4 > Accept-Encoding: gzip,deflate
+
+
+15:46:12.953 [main]  DEBUG com.intuit.karate - response time in milliseconds: 850
+4 < 200
+4 < Date: Sat, 23 Sep 2023 20:46:13 GMT
+4 < Content-Type: application/json; charset=utf-8
+4 < Transfer-Encoding: chunked
+4 < Connection: keep-alive
+4 < X-Powered-By: Express
+4 < Access-Control-Allow-Origin: *
+4 < Etag: W/"57ce-lqh0zATIzCvSqVilArD+HZ5G2x8"
+4 < Via: 1.1 vegur
+4 < CF-Cache-Status: DYNAMIC
+4 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=o8ThqPwve415e0JrRwd7da681eEu2fyAzdKMPp2IdT0tvhX0OVh6sUlE%2B2FClPibPtiINNgjNiUHJX%2B0VzOI1XdmC1NuHwZ9YBtM1wpVWMxLKKWrlQp5ejLWVw06WEq%2BnOIo"}],"group":"cf-nel","max_age":604800}
+4 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+4 < Server: cloudflare
+4 < CF-RAY: 80b5a2bf4bea3be4-MEM
+4 < alt-svc: h3=":443"; ma=86400
+{"articles":[{"slug":"Try-to-transmit-the-HTTP-card-maybe-it-will-override-the-multi-byte-hard-drive!-120863","title":"Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!","description":"Assumenda molestiae laboriosam enim ipsum quaerat enim officia vel quo. Earum odit rem natus totam atque cumque. Sint dolorem facere non.","body":"Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Voluptate et quasi optio eos et eveniet culpa et nobis.\\nSint aut sint sequi possimus reiciendis nisi.\\nRerum et omnis et sit doloribus corporis voluptas error.\\nIusto molestiae tenetur necessitatibus dolorem omnis. Libero sed ut architecto.\\nEx itaque et modi aut voluptatem alias quae.\\nModi dolor cupiditate sit.\\nDelectus consectetur nobis aliquid deserunt sint ut et voluptas.\\nCorrupti in labore laborum quod. Ipsa laudantium deserunt. Ut atque harum inventore natus facere sed molestiae.\\nQuia aliquid ut.\\nAnimi sunt rem et sit ullam dolorem ab consequatur modi. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Et fuga repellendus magnam dignissimos eius aspernatur rerum. Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Ad voluptate vel.\\nAut aut dolor. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et.","tagList":["voluptate","rerum","ducimus","hic"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1910,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"If-we-quantify-the-alarm-we-can-get-to-the-FTP-pixel-through-the-online-SSL-interface!-120863","title":"If we quantify the alarm, we can get to the FTP pixel through the online SSL interface!","description":"Omnis perspiciatis qui quia commodi sequi modi. Nostrum quam aut cupiditate est facere omnis possimus. Tenetur similique nemo illo soluta molestias facere quo. Ipsam totam facilis delectus nihil quidem soluta vel est omnis.","body":"Quia quo iste et aperiam voluptas consectetur a omnis et.\\nDolores et earum consequuntur sunt et.\\nEa nulla ab voluptatem dicta vel. Temporibus aut adipisci magnam aliquam eveniet nihil laudantium reprehenderit sit.\\nAspernatur cumque labore voluptates mollitia deleniti et. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Voluptatum tempora voluptas est odio iure odio dolorem.\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Sed dolores nostrum quis. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Facere beatae delectus ut.\\nPossimus voluptas perspiciatis voluptatem nihil sint praesentium.\\nSint est nihil voluptates nesciunt voluptatibus temporibus blanditiis.\\nOfficiis voluptatem earum sed. Deserunt ab porro similique est accusamus id enim aut suscipit.\\nSoluta reprehenderit error nesciunt odit veniam sed.\\nDolore optio qui aut ab.\\nAut minima provident eius repudiandae a quibusdam in nisi quam.","tagList":["rerum","maiores","omnis","quae"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1916,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"quantifying-the-microchip-wont-do-anything-we-need-to-index-the-online-SQL-hard-drive!-120863","title":"quantifying the microchip wont do anything, we need to index the online SQL hard drive!","description":"Minima soluta sed sed et optio explicabo at distinctio repudiandae. Magnam deleniti a ea. Non velit accusamus veniam qui. Necessitatibus velit ad aut officiis in officiis quasi. Sunt nulla dolores voluptatem esse magnam ut.","body":"Ab rerum eos ipsa accusantium nihil voluptatem.\\nEum minus alias.\\nIure commodi at harum.\\nNostrum non occaecati omnis quisquam. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident.","tagList":["possimus","voluptatem","cupiditate"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":528,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-generate-the-TCP-bus-maybe-it-will-override-the-neural-bandwidth!-120863","title":"Try to generate the TCP bus, maybe it will override the neural bandwidth!","description":"Pariatur ut dolor repellendus dolores ut debitis. Est iusto neque dicta voluptatibus quia nulla consequatur. Omnis aut sed dolores qui laborum a amet.","body":"Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Qui soluta veritatis autem repellat et inventore occaecati. Doloribus consequatur et labore suscipit deserunt tempore ad quasi sed.\\nQuam cupiditate modi dolor et eos et culpa qui.\\nDelectus molestias ea id.\\nIllum ea unde sapiente non non non.\\nDolorem ut sed magni. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Placeat sequi quaerat sapiente aspernatur autem sunt molestiae voluptatem.\\nAccusamus unde libero accusamus omnis totam et temporibus. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Laborum est maxime enim accusantium magnam.\\nRerum dolorum minus laudantium delectus eligendi necessitatibus quia.\\nDeleniti consequatur explicabo aut nobis est vero tempore.\\nExcepturi earum quo quod voluptatem quo iure vel sapiente occaecati.\\nConsectetur consequatur corporis doloribus omnis harum voluptas esse amet. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit.","tagList":["dicta","rerum","omnis","blanditiis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":338,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-bypass-the-SAS-card-maybe-it-will-transmit-the-solid-state-system!-120863","title":"Try to bypass the SAS card, maybe it will transmit the solid state system!","description":"Est iste totam accusamus dolorem est. Quis non sit impedit similique incidunt odio aspernatur aut rem. Architecto est eum.","body":"Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Sapiente vitae culpa ut voluptatem incidunt excepturi voluptates exercitationem.\\nSed doloribus alias consectetur omnis occaecati ad placeat labore.\\nVoluptate consequatur expedita nemo recusandae sint assumenda.\\nQui vel totam quia fugit saepe suscipit autem quasi qui.\\nEt eum vel ut delectus ut nesciunt animi. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ipsa laudantium deserunt. Totam ab necessitatibus quidem non. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Molestias non debitis quibusdam quis quod.\\nSaepe ab et hic unde et sed.\\nMagni voluptatem est.\\nEt similique quo porro et.","tagList":["dolores","aut","consectetur","ullam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":332,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"We-need-to-calculate-the-bluetooth-JBOD-bus!-120863","title":"We need to calculate the bluetooth JBOD bus!","description":"Ipsa nemo eos sequi nulla id accusamus nam ratione dolore. Omnis sint quisquam accusamus rem rem nihil. Non minus animi cum dolorem earum odit sequi. Rem non inventore sed dicta atque modi. Sed dolorem iste molestiae. Sed eum iste aliquid aliquid.","body":"Nisi vitae nostrum perspiciatis impedit laborum repellat ullam et ut. Qui soluta veritatis autem repellat et inventore occaecati. Reprehenderit quae quas quos sapiente ullam ut.\\nVoluptates non ut. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Quia harum nulla et quos sint voluptates exercitationem corrupti. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Eveniet sit ipsa officiis laborum.\\nIn vel est omnis sed impedit quod magni.\\nDignissimos quis illum qui atque aut ut quasi sequi. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Nemo tempore dolor maiores blanditiis quia qui qui voluptatem non.\\nNisi dolores animi laboriosam aliquam qui adipisci voluptates atque dignissimos.\\nLibero sit quibusdam corporis aut inventore natus libero.\\nPraesentium omnis dolorum temporibus repellendus qui.\\nNon nostrum doloribus occaecati dolores sit ut.","tagList":["nostrum","quia","quaerat","numquam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":271,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"You-cant-transmit-the-firewall-without-copying-the-1080p-SDD-interface!-120863","title":"You cant transmit the firewall without copying the 1080p SDD interface!","description":"Est sed deserunt eligendi in velit saepe. Dolorem quis illo vero qui ut recusandae occaecati dolores quae. Voluptatem vero aliquam alias adipisci reiciendis odit nobis est. Vel laboriosam quia commodi rerum. Voluptatum et sed et nesciunt iure ipsum iste aut enim.","body":"Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Temporibus quod quidem placeat porro.\\nUnde ipsam vel explicabo. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Ducimus dolores recusandae.\\nEa aut aperiam et aut eos inventore.\\nQuia cum ducimus autem iste.\\nQuos consequuntur est delectus temporibus autem. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Autem reiciendis provident iure possimus.\\nOccaecati soluta quibusdam libero tenetur minus vel sit illo.\\nCulpa optio dolorem eos similique voluptatem voluptatibus error accusantium. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Et sed dicta eveniet accusamus consequatur.\\nUllam voluptas consequatur aut eos ducimus.\\nId officia est ut dicta provident beatae ipsa.","tagList":["possimus","maiores","facilis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":233,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Use-the-auxiliary-EXE-monitor-then-you-can-hack-the-haptic-port!-120863","title":"Use the auxiliary EXE monitor, then you can hack the haptic port!","description":"Et id harum unde et ratione minima non. Suscipit ipsum rem. Sed asperiores quaerat dolorum autem nihil voluptatem et hic ut. Molestiae rerum autem. Dolores nam soluta officia pariatur debitis.","body":"Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Dolores accusamus ducimus suscipit neque fugit quo aliquam.\\nOdit eum eum sint accusamus.\\nQuod ipsum sed placeat.\\nEt culpa voluptas et quod atque a.\\nVoluptatibus rerum nihil quia cupiditate nihil facere beatae dolor. Fugit harum mollitia.\\nMagni eos asperiores assumenda ad. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Quia consequatur voluptatibus et.\\nVoluptatibus aspernatur et.\\nDicta architecto qui dignissimos.\\nVeritatis facilis voluptatem inventore aliquid cum.\\nNumquam odio quis porro sunt adipisci culpa.","tagList":["necessitatibus","vitae","repellat","labore"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":227,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"You-cant-connect-the-interface-without-programming-the-virtual-PNG-protocol!-120863","title":"You cant connect the interface without programming the virtual PNG protocol!","description":"Vel facere dolorem sit hic non. Veniam nihil cumque sed et delectus. Maiores minus quisquam nostrum. Eius quasi nostrum. Molestiae recusandae ut. Suscipit natus aliquam eos sit aut.","body":"Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Commodi est rerum dolorum quae voluptatem aliquam. Ad voluptate vel.\\nAut aut dolor. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Voluptatum tempora voluptas est odio iure odio dolorem.\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Commodi est rerum dolorum quae voluptatem aliquam. Doloribus temporibus dolorum placeat.\\nFugit nulla quaerat.\\nEveniet ratione odit sed non rerum.\\nNemo tempore eveniet veritatis alias repellat et.\\nVoluptas nisi quis commodi id. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Molestias non debitis quibusdam quis quod.\\nSaepe ab et hic unde et sed.\\nMagni voluptatem est.\\nEt similique quo porro et.","tagList":["dicta","repellat","facilis","labore"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":218,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"If-we-calculate-the-circuit-we-can-get-to-the-HDD-driver-through-the-optical-XML-panel!-120863","title":"If we calculate the circuit, we can get to the HDD driver through the optical XML panel!","description":"Molestias in reprehenderit molestias quam doloribus tenetur. Cupiditate enim ad est nemo et quos. Minus non et voluptatem magni voluptatibus consectetur temporibus ad. Molestiae sed voluptate et dolor eaque sequi minima. Quisquam atque distinctio culpa distinctio rerum labore vero assumenda voluptate.","body":"Consequatur exercitationem asperiores quidem fuga rerum voluptas pariatur.\\nRepellendus sit itaque nam.\\nDeleniti consectetur vel aliquam vitae est velit.\\nId blanditiis ullam sed consequatur omnis. Deleniti explicabo assumenda ipsum cumque voluptatem blanditiis voluptatum omnis provident.\\nQuis placeat nisi fugit aperiam quaerat mollitia.\\nOccaecati repellendus voluptate similique.\\nLaboriosam qui qui voluptas itaque ipsa. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Doloribus temporibus dolorum placeat.\\nFugit nulla quaerat.\\nEveniet ratione odit sed non rerum.\\nNemo tempore eveniet veritatis alias repellat et.\\nVoluptas nisi quis commodi id. Minima qui ut nulla eius.\\nA incidunt ipsum tempore porro tempore.\\nFugit quas voluptas ducimus aut.\\nTempore nostrum velit expedita voluptate est.\\nNam iste explicabo tempore impedit voluptas. Blanditiis non quos aut dolore nulla unde.\\nIncidunt repudiandae amet eius porro.\\nTempora unde sapiente repellat voluptatem omnis et ut omnis in.\\nEt pariatur odit qui minima perspiciatis non dolores. Deserunt ab porro similique est accusamus id enim aut suscipit.\\nSoluta reprehenderit error nesciunt odit veniam sed.\\nDolore optio qui aut ab.\\nAut minima provident eius repudiandae a quibusdam in nisi quam. Quia consequatur voluptatibus et.\\nVoluptatibus aspernatur et.\\nDicta architecto qui dignissimos.\\nVeritatis facilis voluptatem inventore aliquid cum.\\nNumquam odio quis porro sunt adipisci culpa. Qui soluta veritatis autem repellat et inventore occaecati. Quia quo iste et aperiam voluptas consectetur a omnis et.\\nDolores et earum consequuntur sunt et.\\nEa nulla ab voluptatem dicta vel.","tagList":["consequatur","esse","consectetur","sunt"],"createdAt":"2022-12-09T13:46:24.262Z","updatedAt":"2022-12-09T13:46:24.262Z","favorited":false,"favoritesCount":82,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}}],"articlesCount":197}
+
+15:46:13.996 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/Articles.feature
+15:49:13.376 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:49:13.694 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695502153689
+15:49:13.719 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+15:49:14.878 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/Articles.feature:5
+* def articleRequestBody = read('classpath:conduitApp/json/newArticleRequest.json')
+js failed:
+>>>>
+01: read('classpath:conduitApp/json/newArticleRequest.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: not found: conduitApp/json/newArticleRequest.json
+- com.intuit.karate.resource.ResourceUtils.getResource(ResourceUtils.java:126)
+- com.intuit.karate.core.ScenarioFileReader.toResource(ScenarioFileReader.java:129)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:99)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:95)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:54)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:122)
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/Articles.feature:5
+15:49:15.511 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/Articles.feature
+15:50:32.094 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:50:32.422 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695502232418
+15:50:33.520 [main]  INFO  com.intuit.karate - >> lock acquired, begin callonce: read('classpath:src/test/java/helpers/CreateToken.feature') {"email": "SpencerH1417@gmail.com","password": "Corncake21"}
+15:50:33.777 [main]  DEBUG com.intuit.karate - request:
+1 > POST https://api.realworld.io/api/users/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 67
+1 > Host: api.realworld.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+1 > Accept-Encoding: gzip,deflate
+{"user":{"email":"SpencerH1417@gmail.com","password":"Corncake21"}}
+
+15:50:34.217 [main]  DEBUG com.intuit.karate - response time in milliseconds: 433
+1 < 200
+1 < Date: Sat, 23 Sep 2023 20:50:34 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"172-FI3SpUcs1xO2nVRneQ7u1/k5MTg"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DBk0adUDQSL2m3OhP1LZNGcyUErmrI46PbqF6O15QICFnrpfhzBAKbE8nOEHr0TRpcZrLldSgT2bfkScJyuWxAxb7RYmIpOIOO%2FP%2FQTJqrZ7UZRL6L8Nc5k%2F1AMzHsIYWyLT"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 80b5a923a97e0dec-MEM
+1 < alt-svc: h3=":443"; ma=86400
+{"user":{"email":"SpencerH1417@gmail.com","username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMjIzNCwiZXhwIjoxNzAwNjg2MjM0fQ.mUqIWSKpmE84cykxIp4JQvgIyENSlhe4Jdnvci6BN_4"}}
+
+15:50:34.225 [main]  INFO  com.intuit.karate - << lock released, cached callonce: read('classpath:src/test/java/helpers/CreateToken.feature') {"email": "SpencerH1417@gmail.com","password": "Corncake21"}
+15:50:34.257 [main]  DEBUG com.intuit.karate - request:
+1 > POST https://api.realworld.io/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMjIzNCwiZXhwIjoxNzAwNjg2MjM0fQ.mUqIWSKpmE84cykxIp4JQvgIyENSlhe4Jdnvci6BN_4
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 84
+1 > Host: api.realworld.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Bla bla","description":"test test","body":"body","tagList":[]}}
+
+15:50:34.430 [main]  DEBUG com.intuit.karate - response time in milliseconds: 172
+1 < 201
+1 < Date: Sat, 23 Sep 2023 20:50:34 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 349
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"15d-cPlK/VtbrPL+Ej9LmD28Vmn5CCI"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=boKU71egTn3XvsqdGnch9B5IcRSRMeALEgSgdwpYNhtGFR9c9ksJwzTWOL1rnFVKuwElwaSWf8hBAMkHE%2Fgve2DK%2FEoBkiIryACf3FBNz7LgnzNNVb3daaAkwNyHQewA70Us"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 80b5a925afb53bf1-MEM
+1 < alt-svc: h3=":443"; ma=86400
+{"article":{"slug":"Bla-bla-234051","title":"Bla bla","description":"test test","body":"body","tagList":[],"createdAt":"2023-09-23T20:50:34.559Z","updatedAt":"2023-09-23T20:50:34.559Z","favorited":false,"favoritesCount":0,"author":{"username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","following":false}}}
+
+15:50:34.456 [main]  DEBUG com.intuit.karate - request:
+1 > POST https://api.realworld.io/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMjIzNCwiZXhwIjoxNzAwNjg2MjM0fQ.mUqIWSKpmE84cykxIp4JQvgIyENSlhe4Jdnvci6BN_4
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 91
+1 > Host: api.realworld.io
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Delete Article","description":"test test","body":"body","tagList":[]}}
+
+15:50:35.637 [main]  DEBUG com.intuit.karate - response time in milliseconds: 1180
+1 < 201
+1 < Date: Sat, 23 Sep 2023 20:50:35 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 363
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"16b-UsTuTMZ44nkMoZWGqT6yMpB2bCw"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=bhoLEDaSEADTgI8EZv7Q%2FtcI6mqAjRxric9KMoRyS4bZJV%2Bc7o%2BqKDC0QDrj1Ojg1F3svTrEn7L7ws09Rsx%2BKVOg3DhlWQWJ%2FJHi%2Bw7ZT8bYuMFQZ%2BzwcXGb6PPUBh4bTkFR"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 80b5a92d1ac33bdf-MEM
+1 < alt-svc: h3=":443"; ma=86400
+{"article":{"slug":"Delete-Article-234051","title":"Delete Article","description":"test test","body":"body","tagList":[],"createdAt":"2023-09-23T20:50:35.765Z","updatedAt":"2023-09-23T20:50:35.765Z","favorited":false,"favoritesCount":0,"author":{"username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","following":false}}}
+
+15:50:35.645 [main]  DEBUG com.intuit.karate - request:
+2 > GET https://api.realworld.io/api/articles?offset=0&limit=10
+2 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMjIzNCwiZXhwIjoxNzAwNjg2MjM0fQ.mUqIWSKpmE84cykxIp4JQvgIyENSlhe4Jdnvci6BN_4
+2 > Host: api.realworld.io
+2 > Connection: Keep-Alive
+2 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+2 > Accept-Encoding: gzip,deflate
+
+
+15:50:36.600 [main]  DEBUG com.intuit.karate - response time in milliseconds: 951
+2 < 200
+2 < Date: Sat, 23 Sep 2023 20:50:36 GMT
+2 < Content-Type: application/json; charset=utf-8
+2 < Transfer-Encoding: chunked
+2 < Connection: keep-alive
+2 < X-Powered-By: Express
+2 < Access-Control-Allow-Origin: *
+2 < Etag: W/"48d9-UG63l7d+fh4m6iDPJougkH9/Nis"
+2 < Via: 1.1 vegur
+2 < CF-Cache-Status: DYNAMIC
+2 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QMEOt2v0lgrcjK7gYNptJNMevE0fyRmN%2FysCFuMaBQ%2BI4%2FPeB6Dpo7rXDx7xQhZu%2Fn4MbyTn1eA1lb0SMmqNL7xwuCtd%2Bt0ClplGg2PMUtE%2FLV7%2B3FQb1kp5i4NCgrEBCG5y"}],"group":"cf-nel","max_age":604800}
+2 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+2 < Server: cloudflare
+2 < CF-RAY: 80b5a92e5fab3bd8-MEM
+2 < alt-svc: h3=":443"; ma=86400
+{"articles":[{"slug":"Delete-Article-234051","title":"Delete Article","description":"test test","body":"body","tagList":[],"createdAt":"2023-09-23T20:50:35.765Z","updatedAt":"2023-09-23T20:50:35.765Z","favorited":false,"favoritesCount":0,"author":{"username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","following":false}},{"slug":"Bla-bla-234051","title":"Bla bla","description":"test test","body":"body","tagList":[],"createdAt":"2023-09-23T20:50:34.559Z","updatedAt":"2023-09-23T20:50:34.559Z","favorited":false,"favoritesCount":0,"author":{"username":"SpencerH1417","bio":null,"image":"https://api.realworld.io/images/smiley-cyrus.jpeg","following":false}},{"slug":"Try-to-transmit-the-HTTP-card-maybe-it-will-override-the-multi-byte-hard-drive!-120863","title":"Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!","description":"Assumenda molestiae laboriosam enim ipsum quaerat enim officia vel quo. Earum odit rem natus totam atque cumque. Sint dolorem facere non.","body":"Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Voluptate et quasi optio eos et eveniet culpa et nobis.\\nSint aut sint sequi possimus reiciendis nisi.\\nRerum et omnis et sit doloribus corporis voluptas error.\\nIusto molestiae tenetur necessitatibus dolorem omnis. Libero sed ut architecto.\\nEx itaque et modi aut voluptatem alias quae.\\nModi dolor cupiditate sit.\\nDelectus consectetur nobis aliquid deserunt sint ut et voluptas.\\nCorrupti in labore laborum quod. Ipsa laudantium deserunt. Ut atque harum inventore natus facere sed molestiae.\\nQuia aliquid ut.\\nAnimi sunt rem et sit ullam dolorem ab consequatur modi. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Et fuga repellendus magnam dignissimos eius aspernatur rerum. Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Ad voluptate vel.\\nAut aut dolor. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et.","tagList":["voluptate","rerum","ducimus","hic"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1910,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"If-we-quantify-the-alarm-we-can-get-to-the-FTP-pixel-through-the-online-SSL-interface!-120863","title":"If we quantify the alarm, we can get to the FTP pixel through the online SSL interface!","description":"Omnis perspiciatis qui quia commodi sequi modi. Nostrum quam aut cupiditate est facere omnis possimus. Tenetur similique nemo illo soluta molestias facere quo. Ipsam totam facilis delectus nihil quidem soluta vel est omnis.","body":"Quia quo iste et aperiam voluptas consectetur a omnis et.\\nDolores et earum consequuntur sunt et.\\nEa nulla ab voluptatem dicta vel. Temporibus aut adipisci magnam aliquam eveniet nihil laudantium reprehenderit sit.\\nAspernatur cumque labore voluptates mollitia deleniti et. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Voluptatum tempora voluptas est odio iure odio dolorem.\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Sed dolores nostrum quis. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Facere beatae delectus ut.\\nPossimus voluptas perspiciatis voluptatem nihil sint praesentium.\\nSint est nihil voluptates nesciunt voluptatibus temporibus blanditiis.\\nOfficiis voluptatem earum sed. Deserunt ab porro similique est accusamus id enim aut suscipit.\\nSoluta reprehenderit error nesciunt odit veniam sed.\\nDolore optio qui aut ab.\\nAut minima provident eius repudiandae a quibusdam in nisi quam.","tagList":["rerum","maiores","omnis","quae"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1916,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-bypass-the-SAS-card-maybe-it-will-transmit-the-solid-state-system!-120863","title":"Try to bypass the SAS card, maybe it will transmit the solid state system!","description":"Est iste totam accusamus dolorem est. Quis non sit impedit similique incidunt odio aspernatur aut rem. Architecto est eum.","body":"Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Sapiente vitae culpa ut voluptatem incidunt excepturi voluptates exercitationem.\\nSed doloribus alias consectetur omnis occaecati ad placeat labore.\\nVoluptate consequatur expedita nemo recusandae sint assumenda.\\nQui vel totam quia fugit saepe suscipit autem quasi qui.\\nEt eum vel ut delectus ut nesciunt animi. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ipsa laudantium deserunt. Totam ab necessitatibus quidem non. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Molestias non debitis quibusdam quis quod.\\nSaepe ab et hic unde et sed.\\nMagni voluptatem est.\\nEt similique quo porro et.","tagList":["dolores","aut","consectetur","ullam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":332,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"We-need-to-calculate-the-bluetooth-JBOD-bus!-120863","title":"We need to calculate the bluetooth JBOD bus!","description":"Ipsa nemo eos sequi nulla id accusamus nam ratione dolore. Omnis sint quisquam accusamus rem rem nihil. Non minus animi cum dolorem earum odit sequi. Rem non inventore sed dicta atque modi. Sed dolorem iste molestiae. Sed eum iste aliquid aliquid.","body":"Nisi vitae nostrum perspiciatis impedit laborum repellat ullam et ut. Qui soluta veritatis autem repellat et inventore occaecati. Reprehenderit quae quas quos sapiente ullam ut.\\nVoluptates non ut. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Quia harum nulla et quos sint voluptates exercitationem corrupti. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Eveniet sit ipsa officiis laborum.\\nIn vel est omnis sed impedit quod magni.\\nDignissimos quis illum qui atque aut ut quasi sequi. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Nemo tempore dolor maiores blanditiis quia qui qui voluptatem non.\\nNisi dolores animi laboriosam aliquam qui adipisci voluptates atque dignissimos.\\nLibero sit quibusdam corporis aut inventore natus libero.\\nPraesentium omnis dolorum temporibus repellendus qui.\\nNon nostrum doloribus occaecati dolores sit ut.","tagList":["nostrum","quia","quaerat","numquam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":271,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"quantifying-the-microchip-wont-do-anything-we-need-to-index-the-online-SQL-hard-drive!-120863","title":"quantifying the microchip wont do anything, we need to index the online SQL hard drive!","description":"Minima soluta sed sed et optio explicabo at distinctio repudiandae. Magnam deleniti a ea. Non velit accusamus veniam qui. Necessitatibus velit ad aut officiis in officiis quasi. Sunt nulla dolores voluptatem esse magnam ut.","body":"Ab rerum eos ipsa accusantium nihil voluptatem.\\nEum minus alias.\\nIure commodi at harum.\\nNostrum non occaecati omnis quisquam. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident.","tagList":["possimus","voluptatem","cupiditate"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":528,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-generate-the-TCP-bus-maybe-it-will-override-the-neural-bandwidth!-120863","title":"Try to generate the TCP bus, maybe it will override the neural bandwidth!","description":"Pariatur ut dolor repellendus dolores ut debitis. Est iusto neque dicta voluptatibus quia nulla consequatur. Omnis aut sed dolores qui laborum a amet.","body":"Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Qui soluta veritatis autem repellat et inventore occaecati. Doloribus consequatur et labore suscipit deserunt tempore ad quasi sed.\\nQuam cupiditate modi dolor et eos et culpa qui.\\nDelectus molestias ea id.\\nIllum ea unde sapiente non non non.\\nDolorem ut sed magni. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Placeat sequi quaerat sapiente aspernatur autem sunt molestiae voluptatem.\\nAccusamus unde libero accusamus omnis totam et temporibus. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Laborum est maxime enim accusantium magnam.\\nRerum dolorum minus laudantium delectus eligendi necessitatibus quia.\\nDeleniti consequatur explicabo aut nobis est vero tempore.\\nExcepturi earum quo quod voluptatem quo iure vel sapiente occaecati.\\nConsectetur consequatur corporis doloribus omnis harum voluptas esse amet. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit.","tagList":["dicta","rerum","omnis","blanditiis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":339,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"You-cant-transmit-the-firewall-without-copying-the-1080p-SDD-interface!-120863","title":"You cant transmit the firewall without copying the 1080p SDD interface!","description":"Est sed deserunt eligendi in velit saepe. Dolorem quis illo vero qui ut recusandae occaecati dolores quae. Voluptatem vero aliquam alias adipisci reiciendis odit nobis est. Vel laboriosam quia commodi rerum. Voluptatum et sed et nesciunt iure ipsum iste aut enim.","body":"Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Temporibus quod quidem placeat porro.\\nUnde ipsam vel explicabo. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Ducimus dolores recusandae.\\nEa aut aperiam et aut eos inventore.\\nQuia cum ducimus autem iste.\\nQuos consequuntur est delectus temporibus autem. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Autem reiciendis provident iure possimus.\\nOccaecati soluta quibusdam libero tenetur minus vel sit illo.\\nCulpa optio dolorem eos similique voluptatem voluptatibus error accusantium. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Et sed dicta eveniet accusamus consequatur.\\nUllam voluptas consequatur aut eos ducimus.\\nId officia est ut dicta provident beatae ipsa.","tagList":["possimus","maiores","facilis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":233,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Use-the-auxiliary-EXE-monitor-then-you-can-hack-the-haptic-port!-120863","title":"Use the auxiliary EXE monitor, then you can hack the haptic port!","description":"Et id harum unde et ratione minima non. Suscipit ipsum rem. Sed asperiores quaerat dolorum autem nihil voluptatem et hic ut. Molestiae rerum autem. Dolores nam soluta officia pariatur debitis.","body":"Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Dolores accusamus ducimus suscipit neque fugit quo aliquam.\\nOdit eum eum sint accusamus.\\nQuod ipsum sed placeat.\\nEt culpa voluptas et quod atque a.\\nVoluptatibus rerum nihil quia cupiditate nihil facere beatae dolor. Fugit harum mollitia.\\nMagni eos asperiores assumenda ad. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Quia consequatur voluptatibus et.\\nVoluptatibus aspernatur et.\\nDicta architecto qui dignissimos.\\nVeritatis facilis voluptatem inventore aliquid cum.\\nNumquam odio quis porro sunt adipisci culpa.","tagList":["necessitatibus","vitae","repellat","labore"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":227,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}}],"articlesCount":199}
+
+15:50:36.623 [main]  DEBUG com.intuit.karate - request:
+3 > DELETE https://api.realworld.io/api/articles/Delete-Article-234051
+3 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiU3BlbmNlckgxNDE3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3BlbmNlckgxNDE3In0sImlhdCI6MTY5NTUwMjIzNCwiZXhwIjoxNzAwNjg2MjM0fQ.mUqIWSKpmE84cykxIp4JQvgIyENSlhe4Jdnvci6BN_4
+3 > Host: api.realworld.io
+3 > Connection: Keep-Alive
+3 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+3 > Accept-Encoding: gzip,deflate
+
+
+15:50:36.809 [main]  DEBUG com.intuit.karate - response time in milliseconds: 185
+3 < 204
+3 < Date: Sat, 23 Sep 2023 20:50:36 GMT
+3 < Content-Length: 0
+3 < Connection: keep-alive
+3 < X-Powered-By: Express
+3 < Access-Control-Allow-Origin: *
+3 < Etag: W/"a-bAsFyilMr4Ra1hIU5PyoyFRunpI"
+3 < Via: 1.1 vegur
+3 < CF-Cache-Status: DYNAMIC
+3 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uEg5TqyWCzDzNiz5tgzS2PQZLJSfJfnOeqReBeOdQ0TXnrmo7PliPT7QQys8xGGPohIYvhzo4nsbBZYRu%2BXFRDmwE3wN5XSuFucIL1TgcUstwvXy9OyY1Z9G1VDk8B%2F3awur"}],"group":"cf-nel","max_age":604800}
+3 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+3 < Server: cloudflare
+3 < CF-RAY: 80b5a93478373bed-MEM
+3 < alt-svc: h3=":443"; ma=86400
+
+
+15:50:36.812 [main]  DEBUG com.intuit.karate - request:
+4 > GET https://api.realworld.io/api/articles?offset=0&limit=10
+4 > Host: api.realworld.io
+4 > Connection: Keep-Alive
+4 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+4 > Accept-Encoding: gzip,deflate
+
+
+15:50:37.835 [main]  DEBUG com.intuit.karate - response time in milliseconds: 1021
+4 < 200
+4 < Date: Sat, 23 Sep 2023 20:50:37 GMT
+4 < Content-Type: application/json; charset=utf-8
+4 < Transfer-Encoding: chunked
+4 < Connection: keep-alive
+4 < X-Powered-By: Express
+4 < Access-Control-Allow-Origin: *
+4 < Etag: W/"57ce-tZ9CwmSE1MT8Lt8ZXUPYRq0Tmvs"
+4 < Via: 1.1 vegur
+4 < CF-Cache-Status: DYNAMIC
+4 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=d4GyayCk8%2F2Nbv51KIP%2F%2Bt08FNxKB7rQ0CNHiuNRPIIILnXYvMeY7mczlNcJOXWbR1dAYKmJJMyoQDCecbrpIHlASo8HzDRCrQLU65Nh8QHdaL5P0cXjeBGLcN2ynFyeqhlS"}],"group":"cf-nel","max_age":604800}
+4 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+4 < Server: cloudflare
+4 < CF-RAY: 80b5a935ae6b3bdb-MEM
+4 < alt-svc: h3=":443"; ma=86400
+{"articles":[{"slug":"Try-to-transmit-the-HTTP-card-maybe-it-will-override-the-multi-byte-hard-drive!-120863","title":"Try to transmit the HTTP card, maybe it will override the multi-byte hard drive!","description":"Assumenda molestiae laboriosam enim ipsum quaerat enim officia vel quo. Earum odit rem natus totam atque cumque. Sint dolorem facere non.","body":"Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Voluptate et quasi optio eos et eveniet culpa et nobis.\\nSint aut sint sequi possimus reiciendis nisi.\\nRerum et omnis et sit doloribus corporis voluptas error.\\nIusto molestiae tenetur necessitatibus dolorem omnis. Libero sed ut architecto.\\nEx itaque et modi aut voluptatem alias quae.\\nModi dolor cupiditate sit.\\nDelectus consectetur nobis aliquid deserunt sint ut et voluptas.\\nCorrupti in labore laborum quod. Ipsa laudantium deserunt. Ut atque harum inventore natus facere sed molestiae.\\nQuia aliquid ut.\\nAnimi sunt rem et sit ullam dolorem ab consequatur modi. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Et fuga repellendus magnam dignissimos eius aspernatur rerum. Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Ad voluptate vel.\\nAut aut dolor. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et.","tagList":["voluptate","rerum","ducimus","hic"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1910,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"If-we-quantify-the-alarm-we-can-get-to-the-FTP-pixel-through-the-online-SSL-interface!-120863","title":"If we quantify the alarm, we can get to the FTP pixel through the online SSL interface!","description":"Omnis perspiciatis qui quia commodi sequi modi. Nostrum quam aut cupiditate est facere omnis possimus. Tenetur similique nemo illo soluta molestias facere quo. Ipsam totam facilis delectus nihil quidem soluta vel est omnis.","body":"Quia quo iste et aperiam voluptas consectetur a omnis et.\\nDolores et earum consequuntur sunt et.\\nEa nulla ab voluptatem dicta vel. Temporibus aut adipisci magnam aliquam eveniet nihil laudantium reprehenderit sit.\\nAspernatur cumque labore voluptates mollitia deleniti et. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Voluptatum tempora voluptas est odio iure odio dolorem.\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Sed dolores nostrum quis. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Facere beatae delectus ut.\\nPossimus voluptas perspiciatis voluptatem nihil sint praesentium.\\nSint est nihil voluptates nesciunt voluptatibus temporibus blanditiis.\\nOfficiis voluptatem earum sed. Deserunt ab porro similique est accusamus id enim aut suscipit.\\nSoluta reprehenderit error nesciunt odit veniam sed.\\nDolore optio qui aut ab.\\nAut minima provident eius repudiandae a quibusdam in nisi quam.","tagList":["rerum","maiores","omnis","quae"],"createdAt":"2022-12-09T13:46:24.264Z","updatedAt":"2022-12-09T13:46:24.264Z","favorited":false,"favoritesCount":1916,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"quantifying-the-microchip-wont-do-anything-we-need-to-index-the-online-SQL-hard-drive!-120863","title":"quantifying the microchip wont do anything, we need to index the online SQL hard drive!","description":"Minima soluta sed sed et optio explicabo at distinctio repudiandae. Magnam deleniti a ea. Non velit accusamus veniam qui. Necessitatibus velit ad aut officiis in officiis quasi. Sunt nulla dolores voluptatem esse magnam ut.","body":"Ab rerum eos ipsa accusantium nihil voluptatem.\\nEum minus alias.\\nIure commodi at harum.\\nNostrum non occaecati omnis quisquam. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident.","tagList":["possimus","voluptatem","cupiditate"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":528,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-generate-the-TCP-bus-maybe-it-will-override-the-neural-bandwidth!-120863","title":"Try to generate the TCP bus, maybe it will override the neural bandwidth!","description":"Pariatur ut dolor repellendus dolores ut debitis. Est iusto neque dicta voluptatibus quia nulla consequatur. Omnis aut sed dolores qui laborum a amet.","body":"Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Qui soluta veritatis autem repellat et inventore occaecati. Doloribus consequatur et labore suscipit deserunt tempore ad quasi sed.\\nQuam cupiditate modi dolor et eos et culpa qui.\\nDelectus molestias ea id.\\nIllum ea unde sapiente non non non.\\nDolorem ut sed magni. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Placeat sequi quaerat sapiente aspernatur autem sunt molestiae voluptatem.\\nAccusamus unde libero accusamus omnis totam et temporibus. Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Laborum est maxime enim accusantium magnam.\\nRerum dolorum minus laudantium delectus eligendi necessitatibus quia.\\nDeleniti consequatur explicabo aut nobis est vero tempore.\\nExcepturi earum quo quod voluptatem quo iure vel sapiente occaecati.\\nConsectetur consequatur corporis doloribus omnis harum voluptas esse amet. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit.","tagList":["dicta","rerum","omnis","blanditiis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":339,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Try-to-bypass-the-SAS-card-maybe-it-will-transmit-the-solid-state-system!-120863","title":"Try to bypass the SAS card, maybe it will transmit the solid state system!","description":"Est iste totam accusamus dolorem est. Quis non sit impedit similique incidunt odio aspernatur aut rem. Architecto est eum.","body":"Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Sapiente vitae culpa ut voluptatem incidunt excepturi voluptates exercitationem.\\nSed doloribus alias consectetur omnis occaecati ad placeat labore.\\nVoluptate consequatur expedita nemo recusandae sint assumenda.\\nQui vel totam quia fugit saepe suscipit autem quasi qui.\\nEt eum vel ut delectus ut nesciunt animi. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Ipsa laudantium deserunt. Totam ab necessitatibus quidem non. Mollitia nostrum exercitationem sunt rem.\\nRem et voluptas consequatur mollitia nostrum.\\nSunt nesciunt et pariatur quam provident impedit. Molestias non debitis quibusdam quis quod.\\nSaepe ab et hic unde et sed.\\nMagni voluptatem est.\\nEt similique quo porro et.","tagList":["dolores","aut","consectetur","ullam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":332,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"We-need-to-calculate-the-bluetooth-JBOD-bus!-120863","title":"We need to calculate the bluetooth JBOD bus!","description":"Ipsa nemo eos sequi nulla id accusamus nam ratione dolore. Omnis sint quisquam accusamus rem rem nihil. Non minus animi cum dolorem earum odit sequi. Rem non inventore sed dicta atque modi. Sed dolorem iste molestiae. Sed eum iste aliquid aliquid.","body":"Nisi vitae nostrum perspiciatis impedit laborum repellat ullam et ut. Qui soluta veritatis autem repellat et inventore occaecati. Reprehenderit quae quas quos sapiente ullam ut.\\nVoluptates non ut. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Quia harum nulla et quos sint voluptates exercitationem corrupti. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Eveniet sit ipsa officiis laborum.\\nIn vel est omnis sed impedit quod magni.\\nDignissimos quis illum qui atque aut ut quasi sequi. Ab quis aut earum.\\nVoluptatem sint accusantium sed cupiditate optio.\\nConsequatur in dolores aut enim.\\nNon sunt atque maxime dolores.\\nNam impedit sit. Nemo tempore dolor maiores blanditiis quia qui qui voluptatem non.\\nNisi dolores animi laboriosam aliquam qui adipisci voluptates atque dignissimos.\\nLibero sit quibusdam corporis aut inventore natus libero.\\nPraesentium omnis dolorum temporibus repellendus qui.\\nNon nostrum doloribus occaecati dolores sit ut.","tagList":["nostrum","quia","quaerat","numquam"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":271,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"You-cant-transmit-the-firewall-without-copying-the-1080p-SDD-interface!-120863","title":"You cant transmit the firewall without copying the 1080p SDD interface!","description":"Est sed deserunt eligendi in velit saepe. Dolorem quis illo vero qui ut recusandae occaecati dolores quae. Voluptatem vero aliquam alias adipisci reiciendis odit nobis est. Vel laboriosam quia commodi rerum. Voluptatum et sed et nesciunt iure ipsum iste aut enim.","body":"Incidunt doloremque enim autem quam et magnam et expedita fuga.\\nPlaceat quia dolor ut.\\nNon dolor amet temporibus quas non hic sed.\\nQui tempore enim mollitia omnis sed ut eos rerum et.\\nQuidem voluptas est vel. Temporibus quod quidem placeat porro.\\nUnde ipsam vel explicabo. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Ducimus dolores recusandae.\\nEa aut aperiam et aut eos inventore.\\nQuia cum ducimus autem iste.\\nQuos consequuntur est delectus temporibus autem. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Autem reiciendis provident iure possimus.\\nOccaecati soluta quibusdam libero tenetur minus vel sit illo.\\nCulpa optio dolorem eos similique voluptatem voluptatibus error accusantium. Officia consectetur quibusdam velit debitis porro quia cumque.\\nSuscipit esse voluptatem cum sit totam consequatur molestiae est.\\nMollitia pariatur distinctio fugit. Quis nesciunt ut est eos.\\nQui reiciendis doloribus.\\nEst quidem ullam reprehenderit.\\nEst omnis eligendi quis quis quo eum officiis asperiores quis. Et sed dicta eveniet accusamus consequatur.\\nUllam voluptas consequatur aut eos ducimus.\\nId officia est ut dicta provident beatae ipsa.","tagList":["possimus","maiores","facilis"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":233,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"Use-the-auxiliary-EXE-monitor-then-you-can-hack-the-haptic-port!-120863","title":"Use the auxiliary EXE monitor, then you can hack the haptic port!","description":"Et id harum unde et ratione minima non. Suscipit ipsum rem. Sed asperiores quaerat dolorum autem nihil voluptatem et hic ut. Molestiae rerum autem. Dolores nam soluta officia pariatur debitis.","body":"Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Dolores accusamus ducimus suscipit neque fugit quo aliquam.\\nOdit eum eum sint accusamus.\\nQuod ipsum sed placeat.\\nEt culpa voluptas et quod atque a.\\nVoluptatibus rerum nihil quia cupiditate nihil facere beatae dolor. Fugit harum mollitia.\\nMagni eos asperiores assumenda ad. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Quia consequatur voluptatibus et.\\nVoluptatibus aspernatur et.\\nDicta architecto qui dignissimos.\\nVeritatis facilis voluptatem inventore aliquid cum.\\nNumquam odio quis porro sunt adipisci culpa.","tagList":["necessitatibus","vitae","repellat","labore"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":227,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"You-cant-connect-the-interface-without-programming-the-virtual-PNG-protocol!-120863","title":"You cant connect the interface without programming the virtual PNG protocol!","description":"Vel facere dolorem sit hic non. Veniam nihil cumque sed et delectus. Maiores minus quisquam nostrum. Eius quasi nostrum. Molestiae recusandae ut. Suscipit natus aliquam eos sit aut.","body":"Cupiditate officia voluptatum.\\nTenetur facere eum distinctio animi qui laboriosam.\\nQuod sed voluptatem et cumque est eos.\\nSint id provident suscipit harum odio et. Commodi est rerum dolorum quae voluptatem aliquam. Ad voluptate vel.\\nAut aut dolor. Iusto laborum aperiam neque delectus consequuntur provident est maiores explicabo. Voluptatum tempora voluptas est odio iure odio dolorem.\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Commodi est rerum dolorum quae voluptatem aliquam. Doloribus temporibus dolorum placeat.\\nFugit nulla quaerat.\\nEveniet ratione odit sed non rerum.\\nNemo tempore eveniet veritatis alias repellat et.\\nVoluptas nisi quis commodi id. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Molestias non debitis quibusdam quis quod.\\nSaepe ab et hic unde et sed.\\nMagni voluptatem est.\\nEt similique quo porro et.","tagList":["dicta","repellat","facilis","labore"],"createdAt":"2022-12-09T13:46:24.263Z","updatedAt":"2022-12-09T13:46:24.263Z","favorited":false,"favoritesCount":218,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}},{"slug":"If-we-calculate-the-circuit-we-can-get-to-the-HDD-driver-through-the-optical-XML-panel!-120863","title":"If we calculate the circuit, we can get to the HDD driver through the optical XML panel!","description":"Molestias in reprehenderit molestias quam doloribus tenetur. Cupiditate enim ad est nemo et quos. Minus non et voluptatem magni voluptatibus consectetur temporibus ad. Molestiae sed voluptate et dolor eaque sequi minima. Quisquam atque distinctio culpa distinctio rerum labore vero assumenda voluptate.","body":"Consequatur exercitationem asperiores quidem fuga rerum voluptas pariatur.\\nRepellendus sit itaque nam.\\nDeleniti consectetur vel aliquam vitae est velit.\\nId blanditiis ullam sed consequatur omnis. Deleniti explicabo assumenda ipsum cumque voluptatem blanditiis voluptatum omnis provident.\\nQuis placeat nisi fugit aperiam quaerat mollitia.\\nOccaecati repellendus voluptate similique.\\nLaboriosam qui qui voluptas itaque ipsa. Provident saepe omnis non molestiae natus et.\\nAccusamus laudantium hic unde voluptate et sunt voluptatem.\\nMollitia velit id eius mollitia occaecati repudiandae. Doloribus temporibus dolorum placeat.\\nFugit nulla quaerat.\\nEveniet ratione odit sed non rerum.\\nNemo tempore eveniet veritatis alias repellat et.\\nVoluptas nisi quis commodi id. Minima qui ut nulla eius.\\nA incidunt ipsum tempore porro tempore.\\nFugit quas voluptas ducimus aut.\\nTempore nostrum velit expedita voluptate est.\\nNam iste explicabo tempore impedit voluptas. Blanditiis non quos aut dolore nulla unde.\\nIncidunt repudiandae amet eius porro.\\nTempora unde sapiente repellat voluptatem omnis et ut omnis in.\\nEt pariatur odit qui minima perspiciatis non dolores. Deserunt ab porro similique est accusamus id enim aut suscipit.\\nSoluta reprehenderit error nesciunt odit veniam sed.\\nDolore optio qui aut ab.\\nAut minima provident eius repudiandae a quibusdam in nisi quam. Quia consequatur voluptatibus et.\\nVoluptatibus aspernatur et.\\nDicta architecto qui dignissimos.\\nVeritatis facilis voluptatem inventore aliquid cum.\\nNumquam odio quis porro sunt adipisci culpa. Qui soluta veritatis autem repellat et inventore occaecati. Quia quo iste et aperiam voluptas consectetur a omnis et.\\nDolores et earum consequuntur sunt et.\\nEa nulla ab voluptatem dicta vel.","tagList":["consequatur","esse","consectetur","sunt"],"createdAt":"2022-12-09T13:46:24.262Z","updatedAt":"2022-12-09T13:46:24.262Z","favorited":false,"favoritesCount":82,"author":{"username":"Anah Benešová","bio":null,"image":"https://api.realworld.io/images/demo-avatar.png","following":false}}],"articlesCount":197}
+
+15:50:38.732 [main]  INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/Articles.feature
+15:57:36.348 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:57:36.680 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695502656676
+15:57:37.702 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpersDataGenerator')
+js failed:
+>>>>
+01: Java.type('helpersDataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpersDataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+15:57:38.315 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:58:02.373 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:58:02.718 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695502682713
+15:58:03.839 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+15:58:04.511 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+15:59:07.439 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:59:07.740 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695502747737
+15:59:08.705 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('classpath:src/test/java/helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('classpath:src/test/java/helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class classpath:src/test/java/helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+15:59:09.250 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+16:07:54.417 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+16:07:54.677 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695503274672
+16:07:55.669 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:4
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:4
+16:07:56.365 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
+18:00:36.321 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:00:36.601 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1695510036597
+18:00:36.629 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 8
+18:00:37.627 [main]  ERROR com.intuit.karate - src/test/java/conduitApp/feature/SignUp.feature:9
+* def dataGenerator = Java.type('helpers.DataGenerator')
+js failed:
+>>>>
+01: Java.type('helpers.DataGenerator')
+<<<<
+org.graalvm.polyglot.PolyglotException: TypeError: Access to host class helpers.DataGenerator is not allowed or does not exist.
+- <js>.:program(Unnamed:1)
+
+src/test/java/conduitApp/feature/SignUp.feature:9
+18:00:38.251 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/conduitApp/feature/SignUp.feature
